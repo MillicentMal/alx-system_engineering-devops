@@ -1,6 +1,10 @@
 #!/bin/bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 ls -la > ls_cwd_content
 =======
 ls -la >ls_cwd_content
 >>>>>>> e76b8ea (8)
+=======
+ls -la > ls_cwd_content
+>>>>>>> bee6ca7 (8-cw)
