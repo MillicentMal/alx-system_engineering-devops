@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 #!/bin/bash
+=======
+#/bin/bash
+>>>>>>> 8e02dc7 (12)
 echo $((2#$BINARY))
