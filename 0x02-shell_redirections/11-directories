@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 find . -mindepth 1 -type d | wc -l
+<<<<<<< HEAD
 =======
 find . -mindepth 1 -type d |wc -l
 =======
@@ -9,3 +10,5 @@ find . -mindepth 1 -type d | wc -l
 >>>>>>> 2771f81 (11-)
 
 >>>>>>> 0f7bdee (11)
+=======
+>>>>>>> b943ad1 (11-)
