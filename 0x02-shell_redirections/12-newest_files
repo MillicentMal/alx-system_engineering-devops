@@ -1,6 +1,10 @@
 #!/bin/bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 ls -1t | head -10
 =======
 ls -1t | head -10
 >>>>>>> c66503d (12)
+=======
+ls -1t | head -10
+>>>>>>> d8eacf9 (12-)
