@@ -1,6 +1,10 @@
 #!/bin/bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 echo "hello $USER"
 =======
 echo "Hello $USER"
 >>>>>>> 5e5890f (04)
+=======
+echo "hello $USER"
+>>>>>>> 6c48bcb (2)

@@ -1,6 +1,10 @@
 #!/bin/bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 export PATH="$PATH:/action"
 =======
 export PATH="$PATH: /action"
 >>>>>>> 5e5890f (04)
+=======
+export PATH="$PATH:/action"
+>>>>>>> 6c48bcb (2)
