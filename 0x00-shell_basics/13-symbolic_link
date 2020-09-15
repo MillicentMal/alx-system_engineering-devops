@@ -1,6 +1,7 @@
 #!/bin/bash
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # create symbolic links
 ln -s /bin/ls __ls__
 =======
@@ -10,3 +11,6 @@ ln -s /bin/ls _ls_
 ln -s /bin/ls /alx-system_engineering-devops/_ls_
 
 >>>>>>> e65c024 (3)
+=======
+ln -s /bin/ls ./_ls_/alx-system_engineering-devops
+>>>>>>> cc0173e (3)
