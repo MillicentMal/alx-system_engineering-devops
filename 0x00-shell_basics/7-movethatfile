@@ -1,2 +1,7 @@
 #!/bin/bash
+<<<<<<< HEAD
 mv /tmp/betty /tmp/holberton
+=======
+mv /tmp/
+betty /tmp/holberton
+>>>>>>> b195211 (6)
