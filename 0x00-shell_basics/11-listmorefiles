@@ -1,3 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 # all files
+=======
+>>>>>>> 417551c (5)
 ls -la ..
