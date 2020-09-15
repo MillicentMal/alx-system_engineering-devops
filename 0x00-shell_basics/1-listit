@@ -1,3 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 #list all items
+=======
+>>>>>>> 1a4cca6 (1)
 ls 
