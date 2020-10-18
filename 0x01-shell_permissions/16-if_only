@@ -1,6 +1,7 @@
 #!/bin/bash
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 chown --from=guillaume betty  hello
 =======
 sudo chwon --from=guillaume betty hello
@@ -8,3 +9,6 @@ sudo chwon --from=guillaume betty hello
 =======
 chwon --from=guillaume betty hello
 >>>>>>> a3f990c (n)
+=======
+chwon --from=betty guillame hello
+>>>>>>> 33af006 (n)
