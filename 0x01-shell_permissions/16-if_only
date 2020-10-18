@@ -1,6 +1,10 @@
 #!/bin/bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 chown --from=guillaume betty  hello
 =======
 sudo chwon --from=guillaume betty hello
 >>>>>>> e443a23 (all of it)
+=======
+chwon --from=guillaume betty hello
+>>>>>>> a3f990c (n)
