@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
+=======
+chmod u+x hello#!/bin/bash
+>>>>>>> e443a23 (all of it)
 chmod u+x hello
