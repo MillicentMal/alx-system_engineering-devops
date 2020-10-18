@@ -1,7 +1,11 @@
 #!/bin/bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 # commas
 ls -mpa
 =======
 ls -amp
 >>>>>>> 3392aa3 (l)
+=======
+ls -mpa
+>>>>>>> bb0b4ee (l)
