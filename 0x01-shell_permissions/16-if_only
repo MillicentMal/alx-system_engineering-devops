@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 chown --from=guillaume betty  hello
 =======
 sudo chwon --from=guillaume betty hello
@@ -12,3 +13,6 @@ chwon --from=guillaume betty hello
 =======
 chwon --from=betty guillame hello
 >>>>>>> 33af006 (n)
+=======
+chown --from=guillaume betty  hello
+>>>>>>> 0069203 (lol)
