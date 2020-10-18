@@ -6,6 +6,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # create symbolic links
 ln -s /bin/ls __ls__
 =======
@@ -30,3 +31,6 @@ ln -s /bin/ls ./_ls_ /alx-system_engineering-devops
 =======
 ln -s /bin/ls /$PWD/_ls_ 
 >>>>>>> 280588c (13)
+=======
+ln -s /bin/ls /_ls_ /alx-system_engineering-devops 
+>>>>>>> 3392aa3 (l)

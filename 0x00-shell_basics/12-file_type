@@ -1,3 +1,8 @@
 #!/bin/bash
+<<<<<<< HEAD
 # file types
 file /tmp/iamafile
+=======
+file /tmp/iamafile
+
+>>>>>>> 3392aa3 (l)
