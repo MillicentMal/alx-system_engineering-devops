@@ -1,5 +1,6 @@
 #!/bin/bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 # file types
 file /tmp/iamafile
 =======
@@ -9,3 +10,6 @@ file /tmp/iamafile
 >>>>>>> 3392aa3 (l)
 =======
 >>>>>>> 0663e01 (l)
+=======
+ type /tmp/iamafile
+>>>>>>> 2d28adf (l)
