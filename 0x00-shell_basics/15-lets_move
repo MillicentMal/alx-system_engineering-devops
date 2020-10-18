@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # move files
 mv [[:upper:]]* /tmp/u
 =======
@@ -13,3 +14,6 @@ mv [[:upper:]]* /tmp/u
 =======
 mv [[:upper:]]*  /tmp/u
 >>>>>>> a209c7b (l)
+=======
+mv [[:upper:]]* /tmp/u
+>>>>>>> b02f835 (l)
