@@ -1,7 +1,11 @@
 #!/bin/bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 # move files
 mv [[:upper:]]* /tmp/u
 =======
 mv [[:upper:]]* /tmp/u/
 >>>>>>> 3392aa3 (l)
+=======
+mv [[:upper:]]* /tmp/u
+>>>>>>> df53e65 (l)
