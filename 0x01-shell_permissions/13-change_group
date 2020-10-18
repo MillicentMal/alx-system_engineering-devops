@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #!/bin/bash
 =======
 #1/bin/bash
 >>>>>>> e443a23 (all of it)
+=======
+#!/bin/bash
+>>>>>>> e850a47 (k)
 chgrp holberton hello
