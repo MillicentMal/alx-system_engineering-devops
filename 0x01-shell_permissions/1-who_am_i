@@ -1,6 +1,10 @@
 #!/bin/bash
+<<<<<<< HEAD
 id -un
 <<<<<<< HEAD
 =======
+=======
+id -un 
+>>>>>>> b306048 (lol)
 
 >>>>>>> 5d4a167 (seriously)
