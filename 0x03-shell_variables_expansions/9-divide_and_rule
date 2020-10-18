@@ -3,5 +3,9 @@
 echo $((POWER/DIVIDE))
 =======
 #!bin/bash
+<<<<<<< HEAD
 echo $(($POWER/$DIVIDE))
 >>>>>>> a6612d4 (9)
+=======
+echo $((POWER/DIVIDE))
+>>>>>>> f6679fa (l)
