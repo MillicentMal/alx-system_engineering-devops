@@ -2,6 +2,7 @@
 1
 =======
 #!/usr/bin/env bash
+<<<<<<< HEAD
 3
 2
 1#!/usr/bin/env bash
@@ -9,3 +10,9 @@
 >>>>>>> 39eea5e (Network)
 2
 1
+=======
+#3
+#2
+#1
+
+>>>>>>> 3bc7e55 (fixing something)
