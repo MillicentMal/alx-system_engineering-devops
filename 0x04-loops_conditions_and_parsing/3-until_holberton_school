@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+#prints "Holberton School" 10 times using until loop
+let count=0
+until false
+do
+  ((count++))
+  if [[ $count -eq 5 ]]
+  then
+    continue
+  elif [[ $count -ge 12 ]]
+  then
+    break
+  fi
+  echo "Holberton School"
+done
