@@ -25,8 +25,12 @@ echo "Hour: $i"
 let j=1
    while [ $j -le 60 ]
 do
+<<<<<<< HEAD
    echo $j
 >>>>>>> 6ff1096 (Task 7)
+=======
+   echo "$j"
+>>>>>>> 28d2d51 (Task 7)
    let j++
 done
    let i++
