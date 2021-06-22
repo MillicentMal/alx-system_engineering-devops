@@ -1,6 +1,10 @@
 #!/usr/bin/env bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 #prints "Holberton School" 10 times
 =======
 >>>>>>> 50cff5d (task 1)
+=======
+#prints "Holberton School" 10 times
+>>>>>>> 1634141 (Task 1)
 for ((i = 0  ;i < 10 ; i++ )) ; do echo "Holberton School" ; done
