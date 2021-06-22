@@ -23,7 +23,7 @@ while [ $i -le 12 ]    # this is loop1
 do
 echo "Hour: $i"
 let j=1
-   while [ $j -le 60 ]
+   while [ $j -le 59 ]
 do
 <<<<<<< HEAD
    echo $j
