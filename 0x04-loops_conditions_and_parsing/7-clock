@@ -3,6 +3,7 @@
 <<<<<<< HEAD
 #prints time
 
+<<<<<<< HEAD
 let i=0
 while [ $i -le 12 ]    # this is loop1
 do
@@ -15,10 +16,12 @@ do
 =======
 #prints time
 >>>>>>> 3137727 (Task 7)
+=======
+>>>>>>> 2e232a5 (Task 7)
 let i=0
 while [ $i -le 12 ]    # this is loop1
 do
-echo "Hour:" $i
+echo "Hour: $i"
 let j=1
    while [ $j -le 60 ]
 do
