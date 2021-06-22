@@ -17,4 +17,7 @@ then
 	fi
 else
 	echo "holbertonschool file does not exist"
+<<<<<<< HEAD
 fi
+=======
+>>>>>>> ebf5b69 (Task 9)
