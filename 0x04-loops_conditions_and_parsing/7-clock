@@ -1,9 +1,10 @@
 #!/usr/bin/env bash
 #prints time
+
 let i=0
 while [ $i -le 12 ]    # this is loop1
 do
-echo "Hour:" $i
+echo "Hour: $i"
 let j=1
    while [ $j -le 60 ]
 do
