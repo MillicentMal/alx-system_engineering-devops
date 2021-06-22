@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+#prints "Holberton School" 10 times using while loop
+let -i i=0
+while [ $i -le 8 ] 
+do 
+if [ $i == 8 ]
+then
+echo "Holberton School"
+echo "Hi"
+fi
+echo "Holberton School" ;
+let i++
+done
