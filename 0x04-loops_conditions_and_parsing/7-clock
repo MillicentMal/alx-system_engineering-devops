@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 #prints time
 
 let i=0
@@ -11,6 +12,9 @@ let j=1
 do
    echo "$j"
 =======
+=======
+#prints time
+>>>>>>> 3137727 (Task 7)
 let i=0
 while [ $i -le 12 ]    # this is loop1
 do
