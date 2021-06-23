@@ -1,11 +1,15 @@
 #!/usr/bin/env bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 #Bash script that displays To infinity and beyond indefinitely.
 while true;
 do
 	echo "To infinity and beyond";
 	sleep 2
 =======
+=======
+#Bash script that displays To infinity and beyond indefinitely.
+>>>>>>> 6c58579 (Comments)
 while : 
 do
 echo " To infinity and beyond"

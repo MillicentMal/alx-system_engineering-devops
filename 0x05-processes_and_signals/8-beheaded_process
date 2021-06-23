@@ -1,8 +1,12 @@
 #!/usr/bin/env bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 #Bash script that kills the process 7-highlander
 
 pkill -9 "bash ./7-highlander" -f 
 =======
+=======
+#Bash script that kills the process 7-highlander
+>>>>>>> 6c58579 (Comments)
 pkill SIGKILL -f 7-highlander
 >>>>>>> 7708d73 (Attempted all mandatory tasks)

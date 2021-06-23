@@ -1,6 +1,10 @@
 #!/usr/bin/env bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 #displays the PID, along with the process name, of processes whose name contain the word bash
 =======
 >>>>>>> 7708d73 (Attempted all mandatory tasks)
+=======
+#displays the PID, along with the process name, of processes whose name contain the word bash
+>>>>>>> 6c58579 (Comments)
 pgrep -l bash

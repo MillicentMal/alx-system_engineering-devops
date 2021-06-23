@@ -1,8 +1,12 @@
 #!/usr/bin/env bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 #Bash script that displays:To infinity and beyond indefinitelyWith a sleep 2 in between each iteration I am invincible!!! when receiving a SIGTERM signal
 =======
 >>>>>>> 7708d73 (Attempted all mandatory tasks)
+=======
+#Bash script that displays:To infinity and beyond indefinitelyWith a sleep 2 in between each iteration I am invincible!!! when receiving a SIGTERM signal
+>>>>>>> 6c58579 (Comments)
 while true
 do
 	echo "To infinity and beyond"

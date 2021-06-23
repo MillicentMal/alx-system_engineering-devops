@@ -2,7 +2,11 @@
 #!/usr/bin/env bash
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ps aux | pgrep "./0-what-is-my-pid" | awk 'FNR == 1 {print $2}'
 =======
 ps aux | grep "./0-what-is-my-pid" | awk 'FNR == 1 {print $2}'
 >>>>>>> 7708d73 (Attempted all mandatory tasks)
+=======
+ps aux | pgrep "./0-what-is-my-pid" | awk 'FNR == 1 {print $2}'
+>>>>>>> 6c58579 (Comments)

@@ -1,6 +1,10 @@
 #!/usr/bin/env bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 #Bash script that stops 4-to_infinity_and_beyond process
 =======
 >>>>>>> 7708d73 (Attempted all mandatory tasks)
+=======
+#Bash script that stops 4-to_infinity_and_beyond process
+>>>>>>> 6c58579 (Comments)
 kill "$(pgrep -f ./4-to_infinity_and_beyond)"
