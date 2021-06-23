@@ -3,6 +3,7 @@
 <<<<<<< HEAD
 #Bash script that displays To infinity and beyond indefinitely.
 <<<<<<< HEAD
+<<<<<<< HEAD
 while true;
 do
 	echo "To infinity and beyond";
@@ -19,4 +20,10 @@ do
 echo " To infinity and beyond"
 sleep 2
 >>>>>>> 7708d73 (Attempted all mandatory tasks)
+=======
+while true;
+do
+	echo "To infinity and beyond";
+	sleep 2
+>>>>>>> c92051b (Come on)
 done
