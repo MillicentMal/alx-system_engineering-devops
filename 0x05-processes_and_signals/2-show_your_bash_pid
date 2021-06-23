@@ -1,5 +1,10 @@
 #!/usr/bin/env bash
+<<<<<<< HEAD
 #Bash script that displays lines containing the bash word
 # shellcheck disable=SC2009
 ps auxf | grep bash
+=======
+ps auxf | grep bash
+# shellcheck disable=SC2009
+>>>>>>> 7708d73 (Attempted all mandatory tasks)
 $"ps" "faux" | grep "bash"

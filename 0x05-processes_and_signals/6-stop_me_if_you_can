@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
+<<<<<<< HEAD
 #Bash script that stops 4-to_infinity_and_beyond process.
+=======
+>>>>>>> 7708d73 (Attempted all mandatory tasks)
 pkill 
 -f 4-to_infinity_and_beyond

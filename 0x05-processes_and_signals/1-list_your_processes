@@ -1,3 +1,7 @@
 #!/usr/bin/env bash
+<<<<<<< HEAD
 #lists all current running processes
+=======
+ps auxf#!/usr/bin/env bash
+>>>>>>> 7708d73 (Attempted all mandatory tasks)
 ps auxf
