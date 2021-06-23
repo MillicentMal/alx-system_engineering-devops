@@ -3,10 +3,13 @@
 <<<<<<< HEAD
 #Bash script that kills the process 7-highlander
 
+<<<<<<< HEAD
 pkill -9 "bash ./7-highlander" -f 
 =======
 =======
 #Bash script that kills the process 7-highlander
 >>>>>>> 6c58579 (Comments)
+=======
+>>>>>>> 98daa25 (Task 8 acting up)
 pkill SIGKILL -f 7-highlander
 >>>>>>> 7708d73 (Attempted all mandatory tasks)
