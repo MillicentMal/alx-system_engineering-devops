@@ -1,8 +1,11 @@
 #!/usr/bin/env bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
 >>>>>>> af1ab1f (Task 0)
+=======
+>>>>>>> 71bd82d (Errors on errors)
 #script configures Ubuntu server with
 # localhost resolving to 127.0.0.2
 # facebook.com resolving to 8.8.8.8
