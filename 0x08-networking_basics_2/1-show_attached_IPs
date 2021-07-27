@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #!/usr/bin/env bash
+=======
+#!/bin/usr/env bash
+>>>>>>> 76c1166 (Task 2)
 #script displays all active IPv4 IPs on the machine it
 # is executed on.
 
