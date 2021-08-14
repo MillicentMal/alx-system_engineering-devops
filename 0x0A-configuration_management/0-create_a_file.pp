@@ -4,6 +4,7 @@
 <<<<<<< HEAD
 file { '/tmp/holberton':
 <<<<<<< HEAD
+<<<<<<< HEAD
   mode    => '0744',
   group   => 'www-data',
   owner   => 'www-data',
@@ -28,6 +29,8 @@ file { '/tmp/holberton':
   perm    => 0744,
 =======
   ensure  => 'file',
+=======
+>>>>>>> 4cb1207 (Task 0)
   mode    => 0744,
 >>>>>>> 360947a (Task 0)
   group   => www-data,
