@@ -5,6 +5,7 @@
 file { '/tmp/holberton':
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   mode    => '0744',
   group   => 'www-data',
   owner   => 'www-data',
@@ -35,6 +36,11 @@ file { '/tmp/holberton':
 >>>>>>> 360947a (Task 0)
   group   => www-data,
   owner   => www-data,
+=======
+  mode    => '0744',
+  group   => 'www-data',
+  owner   => 'www-data',
+>>>>>>> f75eb20 (Task 0)
   content => 'I love Puppet'
 >>>>>>> 7b8c747 (Task 0)
 }
