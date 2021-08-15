@@ -5,5 +5,9 @@ ssh-keygen -b 4096 -f holberton -N betty
 =======
 #!/bin/usr/env bash
 # Bash script that creates an RSA key pair.
+<<<<<<< HEAD
 ssh-keygen -b 4096 -t rsa -N betty -f holberton
 >>>>>>> 926ed7b (Task 1)
+=======
+ssh-keygen -b 4096 -f holberton -N betty
+>>>>>>> bbafcdc (Task 1)
