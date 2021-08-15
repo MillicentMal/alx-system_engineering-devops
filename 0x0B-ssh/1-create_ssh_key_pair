@@ -1,9 +1,13 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #!/usr/bin/env bash
 # Bash script that creates an RSA key pair.
 ssh-keygen -b 4096 -f holberton -N betty
 =======
 #!/bin/usr/env bash
+=======
+#!/usr/bin/env bash
+>>>>>>> 16773e6 (Task 1)
 # Bash script that creates an RSA key pair.
 <<<<<<< HEAD
 ssh-keygen -b 4096 -t rsa -N betty -f holberton
