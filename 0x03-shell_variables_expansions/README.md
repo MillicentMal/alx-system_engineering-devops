@@ -1,1 +1,1 @@
-VARIABLES AND EXPANSIONS
+Variables AND Expansions
