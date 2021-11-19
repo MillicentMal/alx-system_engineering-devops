@@ -1,2 +1,3 @@
 #!/bin/bash
+# move files
 mv [[:upper:]]* /tmp/u

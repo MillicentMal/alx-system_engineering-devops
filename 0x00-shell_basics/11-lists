@@ -1,2 +1,3 @@
 #!/bin/bash
+# view more files
 ls -al . .. /boot
