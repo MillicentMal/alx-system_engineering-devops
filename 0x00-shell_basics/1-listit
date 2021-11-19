@@ -1,6 +1,10 @@
 #!/bin/bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 #list all items
 =======
 >>>>>>> 1a4cca6 (1)
+=======
+#list all items
+>>>>>>> 8c03c86 (Update 1-listit)
 ls 
