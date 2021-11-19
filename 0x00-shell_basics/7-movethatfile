@@ -1,2 +1,3 @@
 #!/bin/bash
+#moving a file
 mv /tmp/betty /tmp/holberton
