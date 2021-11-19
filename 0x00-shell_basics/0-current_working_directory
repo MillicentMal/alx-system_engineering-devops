@@ -5,6 +5,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 #print working directory
 >>>>>>> 829493f85631ad557865b26f6e890435f1d55030
@@ -20,4 +21,7 @@
 =======
 #print current working directory
 >>>>>>> 66c74af (Adding Comments)
+=======
+#print working directory
+>>>>>>> 5b983d832e490b8218b4b47d7b8a7db831da5dea
 pwd
