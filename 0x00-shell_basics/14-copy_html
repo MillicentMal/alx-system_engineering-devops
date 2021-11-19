@@ -1,2 +1,3 @@
 #!/bin/bash
+#copy an HTML file
 cp -u ./*.html ..

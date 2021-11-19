@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
+=======
+#print working directory
+>>>>>>> 829493f85631ad557865b26f6e890435f1d55030
 pwd
