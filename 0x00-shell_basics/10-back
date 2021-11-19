@@ -1,2 +1,3 @@
 #!/bin/bash
+# go back to directory
 cd -
