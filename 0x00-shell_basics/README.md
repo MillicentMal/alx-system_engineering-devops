@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Shell BASICS First Project in Shell at the Room-SE
 =======
 SHell BASICS
@@ -7,3 +8,6 @@ SHell BASICS
 =======
 Shell BASICS
 >>>>>>> 8db5df2 (Shell Basics)
+=======
+Shell BASICS First Project in Shell at the Room-SE
+>>>>>>> 81928a7 (Shell Basics)
