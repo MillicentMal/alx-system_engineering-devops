@@ -3,6 +3,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 #print working directory
 >>>>>>> 829493f85631ad557865b26f6e890435f1d55030
@@ -13,4 +14,6 @@
 =======
 #print working directory
 >>>>>>> 829493f (Update 0-current_working_directory)
+=======
+>>>>>>> 7e01e58 (Update 0-current_working_directory)
 pwd
