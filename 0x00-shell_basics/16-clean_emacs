@@ -1,6 +1,10 @@
 #!/bin/bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 # clean emacs
 =======
 >>>>>>> 3392aa3 (l)
+=======
+# clean emacs
+>>>>>>> 4917fb7 (Add comments to code)
 rm *~

@@ -1,6 +1,10 @@
 #!/bin/bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 # all files
 =======
 >>>>>>> 417551c (5)
+=======
+# all files
+>>>>>>> 4917fb7 (Add comments to code)
 ls -la ..

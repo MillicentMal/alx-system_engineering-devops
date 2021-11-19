@@ -1,6 +1,10 @@
 #!/bin/bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 # create tree
 =======
 >>>>>>> d3d3356 (17)
+=======
+# create tree
+>>>>>>> 4917fb7 (Add comments to code)
 mkdir -p welcome/to/holberton

@@ -1,6 +1,10 @@
 #!/bin/bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 # view more files
 =======
 >>>>>>> 3392aa3 (l)
+=======
+# view more files
+>>>>>>> 4917fb7 (Add comments to code)
 ls -al . .. /boot

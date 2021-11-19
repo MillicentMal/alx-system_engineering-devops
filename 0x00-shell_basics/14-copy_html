@@ -1,6 +1,10 @@
 #!/bin/bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 #copy an HTML file
 =======
 >>>>>>> 3392aa3 (l)
+=======
+#copy an HTML file
+>>>>>>> 4917fb7 (Add comments to code)
 cp -u ./*.html ..

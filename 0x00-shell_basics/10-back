@@ -1,6 +1,10 @@
 #!/bin/bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 # go back to directory
 =======
 >>>>>>> 3392aa3 (l)
+=======
+# go back to directory
+>>>>>>> 4917fb7 (Add comments to code)
 cd -
