@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# configuring nginx to return default page after `curl 0:80`
+
+sudo sed -i "s/sites-enabled/sites-available/" /etc/nginx/nginx.conf
+sudo service nginx restart
